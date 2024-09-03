@@ -35,7 +35,7 @@ src/
 
 
 ### Live Demo
-Check out the live demo of the BMI Calculator [here](#).
+Check out the live demo of the BMI Calculator [here](https://bmi-calculator-in.netlify.app/).
 
 ### Screenshots
 ![Screenshot 2024-09-03 191648](https://github.com/user-attachments/assets/c969457d-4309-4b31-a395-18c33277b3ca)
