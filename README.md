@@ -50,5 +50,5 @@ In this project, we built a simple yet effective BMI Calculator using React. Thi
 - **Inspiration:** This project was inspired by various BMI calculators available online.
 
 ### Author
-**Abhishek Gurjar** is a passionate web developer with a focus on building intuitive and responsive web applications. Follow his journey and explore more projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a passionate web developer with a focus on building intuitive and responsive web applications. Follow his journey and explore more projects on [GitHub](https://github.com/abhishekboadgurjar).
 
